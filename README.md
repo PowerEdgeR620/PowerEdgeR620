@@ -14,5 +14,5 @@ I’m 401, a developer who loves building small projects, experimenting with new
 ## My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apt_update&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PowerEdgeR620&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
